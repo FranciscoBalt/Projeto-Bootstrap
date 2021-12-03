@@ -1,0 +1,49 @@
+body{
+	background-color: grey;
+}
+
+h1{
+text-align: center;
+}
+
+.container{
+}
+
+.carousel-item active .img{
+	height: 300px;
+	width: 500px;
+}
+
+.carousel-item .img{
+	height: 300px;
+	width: 500px;
+}
+
+
+.compras{
+	float: right;
+	text-decoration: none;
+}
+
+.compras a{
+	text-decoration: none;
+	color: black;
+}
+
+.compras a:link{
+	text-decoration: none;
+}
+
+.compras a:visited{
+text-decoration: none;
+}
+
+.compras a:hover{
+text-decoration: none;
+font-weight: bold;
+}
+
+.compras a:active{
+text-decoration: none;
+color: green;
+}
